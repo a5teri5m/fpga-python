@@ -1,0 +1,17 @@
+{
+    "baseaddr" : "0x41200000",
+    "length": "0x8",
+    "registars" : [
+        {
+            "offset" : "0x0",
+            "name" : "gpio",
+            "rwtype" : "RW"
+        },
+        {
+            "offset" : "0x4",
+            "name" : "tri",
+            "rwtype" : "RW"
+        }
+    ]
+}
+
